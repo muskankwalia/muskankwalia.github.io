@@ -10,6 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Muskan Walia"
+logo                     : ""
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -22,15 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "images/Walia_Muskan.jpg"
-  name             : "Muskan Walia"
-  pronouns         : # example: "she/her"  
-  bio              : #Short biography for the left-hand sidebar
-  location         : "New York, New York"
-  employer         : "New York University"
-  uri              : # URL
-  email            : "m.walia@nyu.edu" 
+  avatar: "/images/Walia_Muskan.jpg"
+  name: "Muskan Walia"
+  pronouns: ""
+  bio: ""
+  location: "New York, New York"
+  employer: "New York University"
+  uri: ""
+  email: "m.walia@nyu.edu"
 
   # Academic websites
   academia         : # URL
